@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hco3o
-- 👀 I’m interested in software development.
+- 👀 I’m interested in back-end development/software development.
 - 🌱 I’m currently learning algorithm.
 - 📫 How to reach me: hc_j@qq.com
 
